@@ -57,7 +57,7 @@ entity JobHistory {
 }
 
 enum Language {
-    FRENCH, ENGLISH, SPANISH
+    FRENCH, ENGLISH, TURKISH
 }
 
 relationship OneToOne {
